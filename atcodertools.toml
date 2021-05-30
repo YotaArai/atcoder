@@ -1,0 +1,5 @@
+[codestyle]
+workspace_dir='~/Workspace/competitive'
+lang='cpp'
+indent_type='tab'
+indent_width=4
