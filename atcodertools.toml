@@ -1,5 +1,6 @@
 [codestyle]
-workspace_dir='~/Workspace/competitive'
+workspace_dir='./'
 lang='cpp'
 indent_type='tab'
 indent_width=4
+template_file='template.cpp'
