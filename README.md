@@ -1,3 +1,3 @@
-# competitive
+# atcoder
 
-競技プログラミング用リポジトリ
+atcoder 用リポジトリ
