@@ -6,7 +6,7 @@ atcoder 用リポジトリ
 
 `atcoder-tools gen [contest_id] --config ./atcodertools.toml`
 
-`g++ main.cpp -std=c++17`
+`g++ main.cpp -std=gnu++17`
 
 `atcoder-tools test`
 
